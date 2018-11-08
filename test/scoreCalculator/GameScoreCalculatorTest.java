@@ -20,5 +20,4 @@ public class GameScoreCalculatorTest {
 		GameScoreCalculator gameScoreCalculator = new GameScoreCalculator(1, 25000, 15, 150);
 		gameScoreCalculator.scoreCalculator();
 	}
-
 }
