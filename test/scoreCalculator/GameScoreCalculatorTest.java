@@ -6,7 +6,6 @@ import org.junit.Test;
 
 public class GameScoreCalculatorTest {
 
-	
 	@Test
 	public void runningGameTest() {
 		GameScoreCalculator gameScoreCalculator = new GameScoreCalculator(0, 10000, 5, 50);
